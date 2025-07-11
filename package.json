@@ -1,0 +1,36 @@
+{
+  "name": "kids-craft-hub",
+  "version": "1.0.0",
+  "description": "500+ DIY toy ideas for kids with step-by-step instructions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "deploy": "vercel --prod",
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linting configured'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "kids",
+    "toys",
+    "diy",
+    "crafts",
+    "education",
+    "stem",
+    "children",
+    "family",
+    "creative",
+    "homemade"
+  ],
+  "author": "Kids Craft Hub",
+  "license": "MIT",
+  "homepage": "https://kids-craft-hub.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/kids-craft-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/kids-craft-hub/issues"
+  }
+}
