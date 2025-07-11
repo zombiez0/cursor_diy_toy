@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Kids Craft Hub - Vercel Deployment Script
-echo "🧸 Deploying Kids Craft Hub to Vercel..."
+# PlayFunBuild - Vercel Deployment Script
+echo "🧸 Deploying PlayFunBuild to Vercel..."
 
 # Check if Vercel CLI is installed
 if ! command -v vercel &> /dev/null; then
@@ -31,7 +31,7 @@ echo "🚀 Deploying to Vercel..."
 vercel --prod
 
 echo "✅ Deployment complete!"
-echo "🌐 Your Kids Craft Hub website is now live!"
+echo "🌐 Your PlayFunBuild website is now live!"
 
 # Open the deployed site
 read -p "Open the live site in browser? (y/n): " open_site
