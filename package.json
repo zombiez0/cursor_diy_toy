@@ -1,5 +1,5 @@
 {
-  "name": "kids-craft-hub",
+  "name": "playfunbuild",
   "version": "1.0.0",
   "description": "500+ DIY toy ideas for kids with step-by-step instructions",
   "main": "index.html",
@@ -23,14 +23,14 @@
     "creative",
     "homemade"
   ],
-  "author": "Kids Craft Hub",
+  "author": "PlayFunBuild",
   "license": "MIT",
-  "homepage": "https://kids-craft-hub.vercel.app",
+  "homepage": "https://playfunbuild.vercel.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/kids-craft-hub.git"
+    "url": "https://github.com/YOUR_USERNAME/playfunbuild.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/kids-craft-hub/issues"
+    "url": "https://github.com/YOUR_USERNAME/playfunbuild/issues"
   }
 }

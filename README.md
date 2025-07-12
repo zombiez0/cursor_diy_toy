@@ -1,8 +1,8 @@
-# 🧸 Kids Craft Hub - DIY Toy Ideas Website
+# 🧸 PlayFunBuild - DIY Toy Ideas Website
 
 > **500+ Amazing DIY Toy Ideas for Kids with Step-by-Step Instructions**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/kids-craft-hub)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/playfunbuild)
 
 A comprehensive, SEO-optimized website featuring over 500 DIY toy ideas for children. Each toy comes with detailed step-by-step instructions, safety guidelines, and educational value.
 
@@ -19,14 +19,14 @@ A comprehensive, SEO-optimized website featuring over 500 DIY toy ideas for chil
 ## 🚀 Quick Deploy to Vercel
 
 ### Option 1: One-Click Deploy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/kids-craft-hub)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/playfunbuild)
 
 ### Option 2: Manual Deployment
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/kids-craft-hub.git
-   cd kids-craft-hub
+   git clone https://github.com/YOUR_USERNAME/playfunbuild.git
+   cd playfunbuild
    ```
 
 2. **Install Vercel CLI**
@@ -52,7 +52,7 @@ A comprehensive, SEO-optimized website featuring over 500 DIY toy ideas for chil
 ## 📁 Project Structure
 
 ```
-kids-craft-hub/
+playfunbuild/
 ├── index.html                 # Homepage
 ├── sitemap.xml               # SEO sitemap
 ├── robots.txt                # Search engine directives
@@ -94,8 +94,8 @@ kids-craft-hub/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/kids-craft-hub.git
-   cd kids-craft-hub
+   git clone https://github.com/YOUR_USERNAME/playfunbuild.git
+   cd playfunbuild
    ```
 
 2. **Serve locally** (using Python)
